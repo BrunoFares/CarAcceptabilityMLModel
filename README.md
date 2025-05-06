@@ -243,4 +243,4 @@ After evaluating all three models on the same dataset:
 accuracy of 99.71% at `C = 110` and above, along with minimal hinge loss.
 
 Among the three models, SVM outperformed both KNN and Decision Tree, making it the
-most effective classifier for this dataset in terms of accuracy and confidenc
+most effective classifier for this dataset in terms of accuracy and confidence.
